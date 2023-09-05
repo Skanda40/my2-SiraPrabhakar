@@ -7,3 +7,10 @@ ___
 1. Hangout in the beach
 2. Go for cycling around the city
 3. Bungee jumping
+
++ Momos
++ Wada
++ Burgers
++ Susegad
+
+
