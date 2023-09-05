@@ -14,3 +14,17 @@ ___
 + Suseegad
 
 [This is the link to MyStats file](MyStats.md)
+
+***
+## Table Section
+Below is the table that recommends four kinds of sports for anyone to try.
+
+| Name |  Reason | Hours|
+| :----:  | :----: | :----: |
+| Cricket | Helps increase stamina| 3  |
+| Badminton | Helps increase flexibility | 2 |
+| Soccer | Teaches importance of <br> playing as a team | 1 |
+| Chess | Good for thinking | 2 |
+
+
+
