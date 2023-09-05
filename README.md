@@ -11,6 +11,6 @@ ___
 + Momos
 + Wada
 + Burgers
-+ Susegad
++ Suseegad
 
 [This is the link to MyStats file](MyStats.md)
