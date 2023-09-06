@@ -29,7 +29,7 @@ Below is the table that recommends four kinds of sports for anyone to try.
 ---
 ## Quotes 
 
-> "Imagination is everything." - _Albert Einstein_
+> Imagination is everything. - _Albert Einstein_
 
 
 
