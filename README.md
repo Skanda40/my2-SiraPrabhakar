@@ -38,7 +38,7 @@ Below is the table that recommends four kinds of sports for anyone to try.
 
 > How to comment out CSS statement with INNER comment? 
 
-[Quick link to the article on stack overflow](https://stackoverflow.com/questions/69467087how-to-comment-out-css-statement-with-inner-comment)
+[Quick link to the article on stack overflow](https://stackoverflow.com/questions/69467087/how-to-comment-out-css-statement-with-inner-comment)
 
 ```
 body 
