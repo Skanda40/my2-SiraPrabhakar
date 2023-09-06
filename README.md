@@ -26,5 +26,10 @@ Below is the table that recommends four kinds of sports for anyone to try.
 | Soccer | Teaches importance of <br> playing as a team | 1 |
 | Chess | Good for thinking | 2 |
 
+---
+## Quotes 
+
+> "Imagination is everything." - _Albert Einstein_
+
 
 
